@@ -278,4 +278,3 @@ def get_content_type(link: str) -> str:
         except:
             content_type = None
     return content_type
-
